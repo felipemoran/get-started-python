@@ -18,3 +18,4 @@ def hello_world():
 if __name__ == '__main__':
     # Run the app, listening on all IPs with our chosen port number
     app.run(host='0.0.0.0', port=port)
+    print("End of file")
